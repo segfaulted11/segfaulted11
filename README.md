@@ -1,3 +1,28 @@
 # banner
 
 ![Header](./your-header-image-name.png)
+
+# Name & Designation 👨‍💻
+### Hi, I'm Rakin 👋
+### CSE Student | Aspiring Full Stack Developer
+
+# About Me Section ✨
+### I am a CSE student passionate about web development and problem solving.  
+### Currently learning full stack development and building personal projects.
+
+# Current Activities
+### Currently learning React.js
+### Working on book website
+
+# Skills Section
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,cpp,python,mysql,git,github)](https://skillicons.dev)
+
+# Social Links 🌐
+[LinkedIn](https://www.linkedin.com/in/rakin11/)
+
+# GitHub Stats 📊
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=segfaulted11&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaulted11&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=segfaulted11)
