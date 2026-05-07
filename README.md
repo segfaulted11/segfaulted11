@@ -1,5 +1,3 @@
-# banner
-
 ![banner](./github-header-banner.png)
 
 # Name & Designation 👨‍💻
