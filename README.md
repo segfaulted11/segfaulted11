@@ -1,3 +1,3 @@
 # banner
 
-!(https://leviarista.github.io/github-profile-header-generator/)
+![Header](./your-header-image-name.png)
