@@ -15,7 +15,7 @@
 ### Working on book website
 
 # Skills Section
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,cpp,python,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,github)](https://skillicons.dev)
 
 # Social Links 🌐
 [LinkedIn](https://www.linkedin.com/in/rakin11/)
