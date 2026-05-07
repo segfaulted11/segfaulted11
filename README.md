@@ -21,8 +21,9 @@
 [LinkedIn](https://www.linkedin.com/in/rakin11/)
 
 # GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=segfaulted11&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaulted11&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=segfaulted11&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=segfaulted11)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=segfaulted11&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=segfaulted11&theme=tokyonight)
