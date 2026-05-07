@@ -1,6 +1,6 @@
 # banner
 
-![Header](./your-header-image-name.png)
+![banner](./github-header-banner.png)
 
 # Name & Designation 👨‍💻
 ### Hi, I'm Rakin 👋
